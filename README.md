@@ -1,6 +1,6 @@
 # Trabajo Práctico N° 1 - Paradigmas de Programación
-**Estudiante: Luciano Babillon  
-**Legajo:53300 
+**Estudiante: Giuliano Caricato  
+**Legajo:53839
 **Universidad: UTN - FRM
 
 ## Descripción del Proyecto
