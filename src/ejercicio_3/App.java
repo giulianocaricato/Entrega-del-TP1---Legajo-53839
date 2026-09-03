@@ -8,7 +8,7 @@ public class App {
         // a. Se registren estudiantes
         List<Estudiante> estudiantes = new ArrayList<>();
         estudiantes.add(new Estudiante("24001", "mariano martin"));
-        estudiantes.add(new Estudiante("24002", "marisa roccuso"));
+        estudiantes.add(new Estudiante("24002", "Sofia Martínez"));
 
         // b. Se construyan eventos (uno pago y uno gratuito para comprobar la regla)
         EventoUniversitario eventoPago = new EventoUniversitario("EV-301", "Congreso de Programación", 1000.0, false);
