@@ -11,7 +11,7 @@ Este proyecto contiene la resolución de los ejercicios prácticos de POO utiliz
 * **Ejercicio 4:** Diagrama y mapa de memoria (Stack y Heap) de la ejecución del programa.
 
 ## Mapa de Memoria (Ejercicio 4)
-La imagen del diagrama se encuentra adjunta en la raíz del repositorio con el nombre `mapa_memoria.png`.
+La imagen del diagrama se encuentra adjunta con el nombre `mapa_memoria.png`.
 
 ## Salida por Consola
 La captura de la ejecución del programa se encuentra adjunta en la raíz como `consola.png`.
